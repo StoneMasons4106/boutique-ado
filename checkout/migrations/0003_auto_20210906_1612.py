@@ -8,7 +8,6 @@ import django_countries.fields
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('profiles', '0002_alter_userprofile_id'),
         ('checkout', '0002_auto_20210830_1437'),
     ]
 
